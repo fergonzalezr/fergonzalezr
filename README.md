@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fergonzalezr
-- 👀 I’m interested in Tech, Planes, engineering.
+- 👀 I’m interested in Tech👨🏻‍💻, Planes✈️, engineering⚙️.
 - 🌱 I’m currently learning Javascript, SQL, Docker.
-- 💞️ I’m looking to collaborate on anything fun.
+- 💞️ I’m looking to collaborate on anything fun. 
 - 📫 How to reach me: fernandogonz2015@icloud.com
 
 <!---
